@@ -1,9 +1,12 @@
 <?php
+
 /**
  * Plugin Name: Dynamic CPT Manager with Icons & Taxonomies
+ * Plugin URI: https://github.com/riyAdHmobin/wordpress-custom-post-type-creator
  * Description: Dynamically register custom post types with category/tag support and icon selection using Dashicons.
  * Version: 1.6
  * Author: Riyadh Mobin
+ * Author URI: https://github.com/riyAdHmobin
  */
 
 if (!defined('ABSPATH')) exit;
